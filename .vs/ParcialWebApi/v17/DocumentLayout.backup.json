@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\controllers\\criptomonedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:controllers\\criptomonedacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\repositories\\criptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:repositories\\criptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\repositories\\icriptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:repositories\\icriptomonedarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\dtos\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:dtos\\createrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\models\\criptomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\criptomoneda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\dtos\\cotizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:dtos\\cotizacionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\models\\criptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:models\\criptocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|d:\\tup\\2do cuatrimestre\\programaci\u00F3n ii\\adrian support\\parcialwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C0B31C0-8756-47C3-AF22-E87518E45C1A}|ParcialWebApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRequest.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\DTOs\\CreateRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateRequest.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\DTOs\\CreateRequest.cs",
+              "RelativeToolTip": "DTOs\\CreateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:08:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:07:03.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CriptomonedaController.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Controllers\\CriptomonedaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CriptomonedaController.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Controllers\\CriptomonedaController.cs",
+              "RelativeToolTip": "Controllers\\CriptomonedaController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:51:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriptomonedaRepository.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Repositories\\CriptomonedaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CriptomonedaRepository.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Repositories\\CriptomonedaRepository.cs",
+              "RelativeToolTip": "Repositories\\CriptomonedaRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:05:17.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICriptomonedaRepository.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Repositories\\ICriptomonedaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICriptomonedaRepository.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Repositories\\ICriptomonedaRepository.cs",
+              "RelativeToolTip": "Repositories\\ICriptomonedaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:00:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Criptomoneda.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\Criptomoneda.cs",
+              "RelativeDocumentMoniker": "Models\\Criptomoneda.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\Criptomoneda.cs",
+              "RelativeToolTip": "Models\\Criptomoneda.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T03:46:18.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CotizacionRequest.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\DTOs\\CotizacionRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CotizacionRequest.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\DTOs\\CotizacionRequest.cs",
+              "RelativeToolTip": "DTOs\\CotizacionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:45:44.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T23:19:50.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriptoContext.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\CriptoContext.cs",
+              "RelativeDocumentMoniker": "Models\\CriptoContext.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Models\\CriptoContext.cs",
+              "RelativeToolTip": "Models\\CriptoContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:13:32.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:21:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\TUP\\2do cuatrimestre\\Programaci\u00F3n II\\Adrian Support\\ParcialWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T23:26:09.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

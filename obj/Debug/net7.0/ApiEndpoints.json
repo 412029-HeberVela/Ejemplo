@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ParcialWebApi.Controllers.CriptomonedaController",
+    "Method": "Get",
+    "RelativePath": "api/Criptomoneda",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebApi.Controllers.CriptomonedaController",
+    "Method": "Delete",
+    "RelativePath": "api/Criptomoneda/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebApi.Controllers.CriptomonedaController",
+    "Method": "GetBy",
+    "RelativePath": "api/Criptomoneda/by-category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cat",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebApi.Controllers.CriptomonedaController",
+    "Method": "Create",
+    "RelativePath": "api/Criptomoneda/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ParcialWebApi.DTOs.CreateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ParcialWebApi.Controllers.CriptomonedaController",
+    "Method": "Update",
+    "RelativePath": "api/Criptomoneda/update/{simbolo}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "simbolo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ParcialWebApi.DTOs.CotizacionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
